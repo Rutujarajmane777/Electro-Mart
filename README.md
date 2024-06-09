@@ -8,10 +8,14 @@ One of the best functionality that the projects include is mailing the customers
 
 ![S1](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/52a930d7-3363-4c99-b9c9-d0191035a1ec)
 
+
 ![S2](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/28c9feb9-17a6-42fc-894d-27d1766a3b6b)
+
 
 ![S3](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/0485f819-88ec-4746-a2ae-0f7247fae864)
 
+
 ![S4](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/50cfdf97-2d2a-43fb-9fdb-ba8fba30484f)
+
 
 ![S5](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/f8ed7fae-7289-4318-b69c-244b9f295949)
