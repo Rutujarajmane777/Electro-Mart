@@ -6,17 +6,12 @@ The admin also plays an important role for this project as the admin is the one 
 
 One of the best functionality that the projects include is mailing the customers, so once a user registers to the website, they will recieve a mail for the successful registration to the website, and along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation. Sometimes, if the user tried to add any item which is out of stock, them they will get an email one the item is available again the stock.
 
-Technologies used:-
-Front-End Development:
-HTML
-CSS
-Javascript
-BootStrap
+![S1](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/52a930d7-3363-4c99-b9c9-d0191035a1ec)
 
-Back-End Development:
-Java [JDK 8+]
-JDBC
-Servlet
-JSP
-Database:
-MySql
+![S2](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/28c9feb9-17a6-42fc-894d-27d1766a3b6b)
+
+![S3](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/0485f819-88ec-4746-a2ae-0f7247fae864)
+
+![S4](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/50cfdf97-2d2a-43fb-9fdb-ba8fba30484f)
+
+![S5](https://github.com/Rutujarajmane777/Electro-Mart/assets/157606563/f8ed7fae-7289-4318-b69c-244b9f295949)
